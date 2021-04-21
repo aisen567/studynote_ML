@@ -42,8 +42,8 @@ lightgbm可以支持直接的类别型特征输入，xgb等其他模型需要one
 [类别型特征](https://zhuanlan.zhihu.com/p/67475635)
 [类别型特征：均值编码](https://zhuanlan.zhihu.com/p/26308272)
 [CTR如何构造特征，Louis回答](https://www.zhihu.com/question/347715330/answer/849645828)
-[特征选择概览]()
-[特征选择实战 ]()
+[特征选择概览](https://zhuanlan.zhihu.com/p/30404850)
+[特征选择实战](https://zhuanlan.zhihu.com/p/32749489)
 [[阅读]特征工程概览]()
 [[阅读]高阶特征工程]()
  
