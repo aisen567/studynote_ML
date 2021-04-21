@@ -38,7 +38,7 @@
 
 [joypy: ](https://github.com/sbebo/joypy) Joyplots in Python with matplotlib & pandas.[Example](https://github.com/sbebo/joypy/blob/master/Joyplot.ipynb)
 
-[]()
+[animatplot: ](https://github.com/t-makaro/animatplot) A python package for animating plots build on matplotlib
 
 ## Auto ML
 
