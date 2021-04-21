@@ -22,13 +22,12 @@ lightgbm可以支持直接的[类别型特征](https://zhuanlan.zhihu.com/p/6747
 1. 异常值处理；
 2. 特征构造；
 3. 分布调整与标准化
-4. 缺失处理；
+4. [缺失值处理](https://zhuanlan.zhihu.com/p/137175585)；
 在具体项目中，2，3，4可以调整顺序；
 
 ### 数据处理
 
 [为什么要处理缺失](https://www.zhihu.com/question/58230411/answer/242037063)
-[缺失值处理](https://zhuanlan.zhihu.com/p/137175585)
 
 数据标准化方法  
 分布良好的数据可以直接进行中心标准化 (x - mu) / std  
