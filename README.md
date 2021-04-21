@@ -2,8 +2,10 @@
 
 # Feature Engineering
  [Introduction](https://github.com/azusakou/studynote_ML/blob/master/Feature%20Engineering/Feature%20Engineering.md)
+
+[category_encoders: ](https://github.com/scikit-learn-contrib/category_encoders) A library of sklearn compatible categorical variable encoders
 [dirty_cat: ](https://github.com/dirty-cat/dirty_cat) Encoding methods for dirty categorical variables
-[等](https://github.com/scikit-learn-contrib/category_encoders)
+
 
 
 # Time Series
