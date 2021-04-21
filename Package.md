@@ -9,12 +9,11 @@
 
 [featuretools: ](https://github.com/alteryx/featuretools) An open source python library for automated feature engineering.
 
+[deeptime: ](https://github.com/deeptime-ml/deeptime) Python library for analysis of time series data including dimensionality reduction, clustering, and Markov model estimation.
+
 # Feature Selection
 
 [sklearn-genetic: ](https://github.com/manuel-calzolari/sklearn-genetic) Genetic feature selection module for scikit-learn
-
-# Time Series
-[deeptime: ](https://github.com/deeptime-ml/deeptime) Python library for analysis of time series data including dimensionality reduction, clustering, and Markov model estimation.
 
 # Ensamble models
 [mlens: ](https://github.com/flennerhag/mlens) ML-Ensemble – high performance ensemble learning.
