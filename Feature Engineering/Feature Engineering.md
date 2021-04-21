@@ -9,7 +9,7 @@
 做特征表示；[文本特征稀疏表示：词袋、ngram、tf-idf](https://zhuanlan.zhihu.com/p/42310942)
 2. 类别变量
 类别数量较少可直接onehot；  
-类别数量较多可以尝试均值编码[等](https://github.com/scikit-learn-contrib/category_encoders)方案；  
+类别数量较多可以尝试[类别型特征：均值编码](https://zhuanlan.zhihu.com/p/26308272)[等](https://github.com/scikit-learn-contrib/category_encoders)方案；  
 lightgbm可以支持直接的类别型特征输入，xgb等其他模型需要onehot； 
 3. 排序变量
 一般可以按照连续性变量处理；
