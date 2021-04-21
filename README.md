@@ -19,6 +19,8 @@
 
 [hiplot: ](https://github.com/facebookresearch/hiplot) HiPlot makes understanding high dimensional data easy.
 
+[scikit-plot: ](https://github.com/reiinakano/scikit-plot) 
+
 ## auto ML
 
 
