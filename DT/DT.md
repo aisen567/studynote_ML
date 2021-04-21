@@ -20,7 +20,7 @@ X的熵减去Y条件下X的熵，就是信息增益。具体解释：原本明�
 [CART树](https://www.cnblogs.com/pinard/p/6053344.html)  
 
 ## Ensemble learning
-## 回顾：随机森林
+### 随机森林
 [Random Forest（随机森林）是 Bagging 的扩展变体](https://www.cnblogs.com/pinard/p/6156009.html)，它在以决策树为基学习器构建 Bagging 集成的基础上，进一步在决策树的训练过程中引入了随机特征选择，因此可以概括 RF 包括四个部分：  
 1. 随机选择样本（放回抽样）；  
 2. 随机选择特征；  
