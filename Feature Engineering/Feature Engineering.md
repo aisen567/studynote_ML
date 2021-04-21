@@ -4,7 +4,7 @@
 
 ### 数据类型
 在表格类数据建模过程中，常常需要处理的数据类型：
-1. 文本——[python 字符串方法](https://zhuanlan.zhihu.com/p/80518649)
+1. 文本_[python 字符串方法](https://zhuanlan.zhihu.com/p/80518649)
 需要做特征表示；[文本特征稀疏表示：词袋、ngram、tf-idf](https://zhuanlan.zhihu.com/p/42310942)
 2. 类别变量
 类别数量较少可直接onehot；  
