@@ -7,9 +7,9 @@
 1. 文本_[python 字符串方法](https://zhuanlan.zhihu.com/p/80518649)
 需要通过[正则表达式](https://www.cnblogs.com/shenjianping/p/11647473.html)，
 做特征表示；[文本特征稀疏表示：词袋、ngram、tf-idf](https://zhuanlan.zhihu.com/p/42310942)
-2. [类别变量](https://github.com/scikit-learn-contrib/category_encoders)
+2. 类别变量
 类别数量较少可直接onehot；  
-类别数量较多可以尝试均值编码等方案；  
+类别数量较多可以尝试均值编码[等](https://github.com/scikit-learn-contrib/category_encoders)方案；  
 lightgbm可以支持直接的类别型特征输入，xgb等其他模型需要onehot； 
 3. 排序变量
 一般可以按照连续性变量处理；
@@ -40,7 +40,7 @@ lightgbm可以支持直接的类别型特征输入，xgb等其他模型需要one
 
 
 [类别型特征](https://zhuanlan.zhihu.com/p/67475635)
-[类别型特征：均值编码](https://zhuanlan.zhihu.com/p/26308272)
+
 [CTR如何构造特征，Louis回答](https://www.zhihu.com/question/347715330/answer/849645828)
 [特征选择概览](https://zhuanlan.zhihu.com/p/30404850)
 [特征选择实战](https://zhuanlan.zhihu.com/p/32749489)
