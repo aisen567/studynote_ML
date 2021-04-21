@@ -1,6 +1,9 @@
 # studynote_ML []()
 
 ## auto ML
+
+
+## auto DL
 [PaddleHub:](https://github.com/PaddlePaddle/PaddleHub)
 
 ## auto Time Series
@@ -9,7 +12,7 @@
 # record
 [mlflow:](https://github.com/mlflow/mlflow) Open source platform for the machine learning lifecycle
 
-### Plot
+# Plot
 [Shap:](https://github.com/slundberg/shap) A game theoretic approach to explain the output of any machine learning model.
 
 [dtreeviz:](https://github.com/parrt/dtreeviz) A python library for decision tree visualization and model interpretation.
