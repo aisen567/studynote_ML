@@ -8,8 +8,8 @@
 ## 知识点：  
 1.最小二乘:基于经验的最小化误差平方根MSE; 误差服从正态分布是最小二乘的充要条件,MSE损失函数的推导;  
 2.最大似然估计  
-3.Gradient Descent
-4.[参数估计/假设检验/拟合优度](https://zhuanlan.zhihu.com/p/48541799)
+3.Gradient Descent  
+4.[参数估计/假设检验/拟合优度](https://zhuanlan.zhihu.com/p/48541799)  
 5.[linear reg/ridge reg/Bayesian reg](https://zhuanlan.zhihu.com/p/86009986)
 
 ## Q&A
