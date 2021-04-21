@@ -24,7 +24,14 @@ X的熵减去Y条件下X的熵，就是信息增益。具体解释：原本明�
 [CART树](https://www.cnblogs.com/pinard/p/6053344.html)
 
 ### Ensemble learning
-bagging模型集成与随机森岭
+[bagging模型集成与随机森岭]()
+
 随机森林参数介绍
 拓展阅读：模型融合
 拓展阅读：预测偏差、方差与模型融合
+
+
+
+
+
+
