@@ -40,6 +40,8 @@
 
 [animatplot: ](https://github.com/t-makaro/animatplot) A python package for animating plots build on matplotlib
 
+[hvplot: ](https://github.com/holoviz/hvplot) 
+
 ## Auto ML
 
 
