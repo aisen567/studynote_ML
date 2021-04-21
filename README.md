@@ -7,7 +7,7 @@
 
 [dirty_cat: ](https://github.com/dirty-cat/dirty_cat) Encoding methods for dirty categorical variables
 
-
+[tsfresh: ](https://github.com/blue-yonder/tsfresh) Automatic extraction of relevant features from time series
 
 # Time Series
 [deeptime: ](https://github.com/deeptime-ml/deeptime) Python library for analysis of time series data including dimensionality reduction, clustering, and Markov model estimation.
