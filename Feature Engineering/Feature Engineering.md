@@ -105,7 +105,7 @@ lightgbm可以支持直接的[类别型特征](https://zhuanlan.zhihu.com/p/6747
 数据不呈正态分布时可运用  
 当前特征数据不利于被模型捕获时  
 
-
+### 特征选择](https://zhuanlan.zhihu.com/p/30404850)
 
 [特征选择概览](https://zhuanlan.zhihu.com/p/30404850)  
 [特征选择实战](https://zhuanlan.zhihu.com/p/32749489)  
