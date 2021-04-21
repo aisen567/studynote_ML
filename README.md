@@ -22,8 +22,11 @@
 
 
 ## auto DL
-[PaddleHub: ](https://github.com/PaddlePaddle/PaddleHub)
+[PaddleHub: ](https://github.com/PaddlePaddle/PaddleHub) Awesome pre-trained models toolkit based on PaddlePaddle.（300+ models including Image, Text, Audio and Video with Easy Inference & Serving deployment)
+
 [AutoGL: ](https://github.com/THUMNLab/AutoGL) An autoML framework & toolkit for machine learning on graphs.
+
+
 
 ## auto Time Series
 [Auto_TS: ](https://github.com/AutoViML/Auto_TS) Automatically build ARIMA, SARIMAX, VAR, FB Prophet and XGBoost Models on Time Series data sets with a Single Line of Code. Now updated with Dask to handle millions of rows.
