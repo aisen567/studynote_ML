@@ -39,7 +39,7 @@ lightgbm可以支持直接的类别型特征输入，xgb等其他模型需要one
 [python 字符串方法](https://zhuanlan.zhihu.com/p/80518649)
 [正则表达式](https://www.cnblogs.com/shenjianping/p/11647473.html)
 [文本特征稀疏表示：词袋、ngram、tf-idf](https://zhuanlan.zhihu.com/p/42310942)
-[类别型特征]()
+[类别型特征](https://zhuanlan.zhihu.com/p/67475635)
 [类别型特征：均值编码]()
 [CTR如何构造特征，Louis回答]()
 [特征选择概览]()
