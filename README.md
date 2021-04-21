@@ -5,9 +5,11 @@
 
 [category_encoders: ](https://github.com/scikit-learn-contrib/category_encoders) A library of sklearn compatible categorical variable encoders
 
-[dirty_cat: ](https://github.com/dirty-cat/dirty_cat) Encoding methods for dirty categorical variables
 
 [tsfresh: ](https://github.com/blue-yonder/tsfresh) Automatic extraction of relevant features from time series
+
+[dirty_cat: ](https://github.com/dirty-cat/dirty_cat) Encoding methods for dirty categorical variables
+
 
 # Time Series
 [deeptime: ](https://github.com/deeptime-ml/deeptime) Python library for analysis of time series data including dimensionality reduction, clustering, and Markov model estimation.
