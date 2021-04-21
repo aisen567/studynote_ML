@@ -10,7 +10,7 @@
 2. 类别变量
 类别数量较少可直接onehot；  
 类别数量较多可以尝试[类别型特征：均值编码](https://zhuanlan.zhihu.com/p/26308272)[等](https://github.com/scikit-learn-contrib/category_encoders)方案；  
-lightgbm可以支持直接的类别型特征输入，xgb等其他模型需要onehot； 
+lightgbm可以支持直接的[类别型特征](https://zhuanlan.zhihu.com/p/67475635)输入，xgb等其他模型需要onehot； 
 3. 排序变量
 一般可以按照连续性变量处理；
 4. 连续变量
@@ -36,10 +36,6 @@ lightgbm可以支持直接的类别型特征输入，xgb等其他模型需要one
 对于较为特殊的分布可以尝试RankGauss标准化；查看sklearn QuantileTransformer文档  
 
 ### 特征挖掘
-
-
-
-[类别型特征](https://zhuanlan.zhihu.com/p/67475635)
 
 [CTR如何构造特征，Louis回答](https://www.zhihu.com/question/347715330/answer/849645828)
 [特征选择概览](https://zhuanlan.zhihu.com/p/30404850)
