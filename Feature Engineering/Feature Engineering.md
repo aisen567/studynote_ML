@@ -3,10 +3,10 @@
 ## 知识点
 
 ### 数据类型
-在表格类数据建模过程中，常常需要[处理](https://github.com/scikit-learn-contrib/category_encoders)的数据类型：
+在表格类数据建模过程中，常常需要处理的数据类型：
 1. 文本_[python 字符串方法](https://zhuanlan.zhihu.com/p/80518649)
 需要做特征表示；[文本特征稀疏表示：词袋、ngram、tf-idf](https://zhuanlan.zhihu.com/p/42310942)
-2. 类别变量
+2. [类别变量](https://github.com/scikit-learn-contrib/category_encoders)
 类别数量较少可直接onehot；  
 类别数量较多可以尝试均值编码等方案；  
 lightgbm可以支持直接的类别型特征输入，xgb等其他模型需要onehot； 
