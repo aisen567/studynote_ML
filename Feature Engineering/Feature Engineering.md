@@ -35,7 +35,7 @@ lightgbm可以支持直接的类别型特征输入，xgb等其他模型需要one
 对于较为特殊的分布可以尝试RankGauss标准化；查看sklearn QuantileTransformer文档  
 
 ### 特征挖掘
-[特征工程是什么]()
+[特征工程是什么](https://www.zhihu.com/question/29316149/answer/607394337)
 [python 字符串方法  ]()
 [正则表达式 ]()
 [文本特征稀疏表示：词袋、ngram、tf-idf]()
