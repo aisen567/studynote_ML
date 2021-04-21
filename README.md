@@ -23,10 +23,6 @@
 
 [mlxtend: ](https://github.com/rasbt/mlxtend) A library of extension and helper modules for Python's data analysis and machine learning libraries.
 
-
-# Record
-[mlflow: ](https://github.com/mlflow/mlflow) Open source platform for the machine learning lifecycle.
-
 # Plot
 [Shap: ](https://github.com/slundberg/shap) A game theoretic approach to explain the output of any machine learning model.
 
@@ -39,6 +35,9 @@
 [joypy: ](https://github.com/sbebo/joypy) Joyplots in Python with matplotlib & pandas.[Example](https://github.com/sbebo/joypy/blob/master/Joyplot.ipynb)
 
 [animatplot: ](https://github.com/t-makaro/animatplot) A python package for animating plots build on matplotlib
+
+# Record
+[mlflow: ](https://github.com/mlflow/mlflow) Open source platform for the machine learning lifecycle.
 
 [hvplot: ](https://github.com/holoviz/hvplot) A high-level plotting API for pandas, dask, xarray, and networkx built on HoloViews
 
