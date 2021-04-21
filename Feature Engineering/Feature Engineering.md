@@ -44,7 +44,10 @@ lightgbm可以支持直接的[类别型特征](https://zhuanlan.zhihu.com/p/6747
 [顶级方案学习：kaggle-IEEE-Fraud-Prediction](https://github.com/azusakou/studynote_ML/blob/master/Feature%20Engineering/顶级方案学习：kaggle-IEEE-Fraud-Prediction.pdf)
 
 ## QA
+两个类别型变量构造笛卡尔特征组合为什么能提升模型表现？
 
+(1)把特征通过运输到一个关系更简单的空间里面，比如说线性可分的空间就会提升，模型性能提高。  
+(2)ABC3个变量，变量之间两两独立，但是变量与变量之间组成一个，就比如三个变量，是一个大的系统，就不是独立的了，所以说通过构造这个，比如说a和b的特征组合，那么这个特征组合对于预测变量是有效的，但是有可能这个a和b，这两个变量单独对于这个预测是没有什么效果的，这个时候需要去构造这样的一个特征组合
  
   
  
