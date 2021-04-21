@@ -11,8 +11,8 @@ Adaboost 迭代算法有三步：
 2. 训练弱分类器，如果样本分类正确，则在构造下一个训练集中，它的权值就会被降低；反之提高。用更新过的样本集去训练下一个分类器；  
 3. 将所有弱分类组合成强分类器，各个弱分类器的训练过程结束后，加大分类误差率小的弱分类器的权重，降低分类误差率大的弱分类器的权重。  
 
-[GBDT原理](https://zhuanlan.zhihu.com/p/29765582)
-[拓展阅读:Random Forest、Adaboost、GBDT](https://zhuanlan.zhihu.com/p/86263786)
-[XGBoost、LightGBM原理](https://zhuanlan.zhihu.com/p/87885678)
-[XGBoost、LightGBM对比](https://zhuanlan.zhihu.com/p/35645973)
+[GBDT原理](https://zhuanlan.zhihu.com/p/29765582)  
+[拓展阅读:Random Forest、Adaboost、GBDT](https://zhuanlan.zhihu.com/p/86263786)  
+[XGBoost、LightGBM原理](https://zhuanlan.zhihu.com/p/87885678)  
+[XGBoost、LightGBM对比](https://zhuanlan.zhihu.com/p/35645973)  
 
