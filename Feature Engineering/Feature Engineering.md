@@ -100,11 +100,6 @@ lightgbm可以支持直接的[类别型特征](https://zhuanlan.zhihu.com/p/6747
 
 
 
-
-
-
-
-
 [CTR如何构造特征，Louis回答](https://www.zhihu.com/question/347715330/answer/849645828)  
 [特征选择概览](https://zhuanlan.zhihu.com/p/30404850)  
 [特征选择实战](https://zhuanlan.zhihu.com/p/32749489)  
