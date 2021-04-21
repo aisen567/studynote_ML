@@ -19,7 +19,7 @@
 
 [hiplot: ](https://github.com/facebookresearch/hiplot) HiPlot makes understanding high dimensional data easy.
 
-[scikit-plot: ](https://github.com/reiinakano/scikit-plot) 
+[scikit-plot: ](https://github.com/reiinakano/scikit-plot) An intuitive library to add plotting functionality to scikit-learn objects.
 
 ## auto ML
 
