@@ -12,4 +12,4 @@
 2.最大似然估计  
 3.Gradient Descent
 4.[参数估计/假设检验/拟合优度](https://zhuanlan.zhihu.com/p/48541799)
-5.linear reg/ridge reg/Bayesian linear regression
+5.[linear reg/ridge reg/Bayesian reg](linear reg/ridge reg/Bayesian reg)
