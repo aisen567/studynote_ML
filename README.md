@@ -27,7 +27,7 @@
 
 [AutoGL: ](https://github.com/THUMNLab/AutoGL) An autoML framework & toolkit for machine learning on graphs.
 
-[Autogluon]()
+[Autogluon: ](https://github.com/awslabs/autogluon) AutoGluon: AutoML for Text, Image, and Tabular Data
 
 
 ## auto Time Series
