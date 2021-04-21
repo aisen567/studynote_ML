@@ -29,6 +29,7 @@ X的熵减去Y条件下X的熵，就是信息增益。具体解释：原本明�
 [模型融合](https://zhuanlan.zhihu.com/p/25836678)
 [预测偏差、方差与模型融合](https://github.com/azusakou/studynote_ML/blob/master/DT/Lecture_10_Ensemble.pdf)
 
+## QA
 
 
 
