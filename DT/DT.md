@@ -23,7 +23,7 @@ X的熵减去Y条件下X的熵，就是信息增益。具体解释：原本明�
 [基尼指数（基尼不纯度,信息熵的1阶泰勒展开）](https://www.zhihu.com/question/296781126/answer/508112100)
 [CART树](https://www.cnblogs.com/pinard/p/6053344.html)
 
-### DT
+### Ensemble learning
 bagging模型集成与随机森岭
 随机森林参数介绍
 拓展阅读：模型融合
