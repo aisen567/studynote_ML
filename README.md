@@ -36,7 +36,7 @@
 
 [scikit-plot: ](https://github.com/reiinakano/scikit-plot) An intuitive library to add plotting functionality to scikit-learn objects.
 
-[joypy: ](https://github.com/sbebo/joypy)
+[joypy: ](https://github.com/sbebo/joypy) Joyplots in Python with matplotlib & pandas
 
 ## Auto ML
 
