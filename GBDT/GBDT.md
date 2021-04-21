@@ -13,7 +13,6 @@ Adaboost 迭代算法有三步：
 
 [GBDT原理](https://zhuanlan.zhihu.com/p/29765582)
 [拓展阅读:Random Forest、Adaboost、GBDT](https://zhuanlan.zhihu.com/p/86263786)
-[]()
-[]()
-XGBoost、LightGBM原理
-XGBoost、LightGBM对比
+[XGBoost、LightGBM原理](https://zhuanlan.zhihu.com/p/87885678)
+[XGBoost、LightGBM对比]()
+
