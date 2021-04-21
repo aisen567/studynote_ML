@@ -21,7 +21,7 @@ X的熵减去Y条件下X的熵，就是信息增益。具体解释：原本明�
 
 ## Ensemble learning
 ## 回顾：随机森林
-Random Forest（随机森林）是 Bagging 的扩展变体，它在以决策树为基学习器构建 Bagging 集成的基础上，进一步在决策树的训练过程中引入了随机特征选择，因此可以概括 RF 包括四个部分：  
+[Random Forest（随机森林）是 Bagging 的扩展变体](https://www.cnblogs.com/pinard/p/6156009.html)，它在以决策树为基学习器构建 Bagging 集成的基础上，进一步在决策树的训练过程中引入了随机特征选择，因此可以概括 RF 包括四个部分：  
 1. 随机选择样本（放回抽样）；  
 2. 随机选择特征；  
 3. 构建决策树；  
@@ -33,7 +33,7 @@ Random Forest（随机森林）是 Bagging 的扩展变体，它在以决策树�
 1. 在数据集上表现良好，相对于其他算法有较大的优势
 2. 易于并行化，在大数据集上有很大的优势；
 3. 能够处理高维度数据，不用做特征选择。
-[bagging模型集成与随机森岭](https://www.cnblogs.com/pinard/p/6156009.html)  
+
 [模型融合](https://zhuanlan.zhihu.com/p/25836678)  
 [预测偏差、方差与模型融合](https://github.com/azusakou/studynote_ML/blob/master/DT/Lecture_10_Ensemble.pdf)  
 
