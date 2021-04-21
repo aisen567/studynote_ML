@@ -1,7 +1,7 @@
 # [特征工程](https://www.zhihu.com/question/29316149/answer/607394337)（基础） []()
 
 ## 知识点
-
+https://github.com/scikit-learn-contrib/category_encoders
 ### 数据类型
 在表格类数据建模过程中，常常需要处理的数据类型：
 1. 文本_[python 字符串方法](https://zhuanlan.zhihu.com/p/80518649)
