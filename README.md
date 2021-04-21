@@ -42,10 +42,8 @@
 
 [hvplot: ](https://github.com/holoviz/hvplot) A high-level plotting API for pandas, dask, xarray, and networkx built on HoloViews
 
-[]()
-
 ## Auto ML
-
+[Tpot: ](https://github.com/EpistasisLab/tpot) A Python Automated Machine Learning tool that optimizes machine learning pipelines using genetic programming.
 
 ## Auto DL
 [PaddleHub: ](https://github.com/PaddlePaddle/PaddleHub) Awesome pre-trained models toolkit based on PaddlePaddle.（300+ models including Image, Text, Audio and Video with Easy Inference & Serving deployment)
