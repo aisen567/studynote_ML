@@ -3,6 +3,8 @@
 # Feature Engineering
  [Introduction](https://github.com/azusakou/studynote_ML/blob/master/Feature%20Engineering/Feature%20Engineering.md)
 [dirty_cat: ](https://github.com/dirty-cat/dirty_cat) Encoding methods for dirty categorical variables
+[等](https://github.com/scikit-learn-contrib/category_encoders)
+
 
 # Time Series
 [deeptime: ](https://github.com/deeptime-ml/deeptime) Python library for analysis of time series data including dimensionality reduction, clustering, and Markov model estimation.
