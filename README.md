@@ -40,7 +40,9 @@
 
 [animatplot: ](https://github.com/t-makaro/animatplot) A python package for animating plots build on matplotlib
 
-[hvplot: ](https://github.com/holoviz/hvplot) 
+[hvplot: ](https://github.com/holoviz/hvplot) A high-level plotting API for pandas, dask, xarray, and networkx built on HoloViews
+
+[]()
 
 ## Auto ML
 
