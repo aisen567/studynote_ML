@@ -36,8 +36,8 @@ lightgbm可以支持直接的类别型特征输入，xgb等其他模型需要one
 
 ### 特征挖掘
 [特征工程是什么](https://www.zhihu.com/question/29316149/answer/607394337)
-[python 字符串方法  ]()
-[正则表达式 ]()
+[python 字符串方法](https://zhuanlan.zhihu.com/p/80518649)
+[正则表达式](https://www.cnblogs.com/shenjianping/p/11647473.html)
 [文本特征稀疏表示：词袋、ngram、tf-idf]()
 [类别型特征]()
 [类别型特征：均值编码]()
