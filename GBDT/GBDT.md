@@ -11,13 +11,12 @@ Adaboost 迭代算法有三步：
 2. 训练弱分类器，如果样本分类正确，则在构造下一个训练集中，它的权值就会被降低；反之提高。用更新过的样本集去训练下一个分类器；  
 3. 将所有弱分类组合成强分类器，各个弱分类器的训练过程结束后，加大分类误差率小的弱分类器的权重，降低分类误差率大的弱分类器的权重。  
 
-[GBDT原理](https://zhuanlan.zhihu.com/p/29765582)  
 [拓展阅读:Random Forest、Adaboost、GBDT](https://zhuanlan.zhihu.com/p/86263786)  
 [XGBoost、LightGBM原理](https://zhuanlan.zhihu.com/p/87885678)  
 [XGBoost、LightGBM对比](https://zhuanlan.zhihu.com/p/35645973)  
 
 ## QA
-### 1.介绍一下GBDT
+### 1.介绍一下[GBDT](https://zhuanlan.zhihu.com/p/29765582)
 GBDT是boost结构的非线性模型，首先初始化回归树，然后对每个样本计算残差（损失函数为均方差时，残差为负梯度方向），将得到的残差作为样本训练下一颗回归树，通过贪心策略生成决策树的每个节点，通过迭代求得一个新的树模型，使整体损失函数变小，通过调整树模型的学习率抑制模型过拟合。GBDT的求解过程就是梯度下降在函数空间的优化过程。优点是能处理连续和离散数据，易于特征选择，缺点是串行生成，对于稀疏特征效果不如LR或SVM。
 
 ### 2.xgboost有哪些改进？ 
