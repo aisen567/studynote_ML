@@ -5,7 +5,8 @@
 
 # ensamble models
 [mlens: ](https://github.com/flennerhag/mlens) ML-Ensemble – high performance ensemble learning.
-[mlxtend: ](https://github.com/rasbt/mlxtend)
+
+[mlxtend: ](https://github.com/rasbt/mlxtend) A library of extension and helper modules for Python's data analysis and machine learning libraries.
 
 
 # record
