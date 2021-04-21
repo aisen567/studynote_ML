@@ -45,6 +45,8 @@
 ## Auto ML
 [Tpot: ](https://github.com/EpistasisLab/tpot) A Python Automated Machine Learning tool that optimizes machine learning pipelines using genetic programming.
 
+[Pycaret: ]()
+
 ## Auto DL
 [PaddleHub: ](https://github.com/PaddlePaddle/PaddleHub) Awesome pre-trained models toolkit based on PaddlePaddle.（300+ models including Image, Text, Audio and Video with Easy Inference & Serving deployment)
 
