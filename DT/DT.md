@@ -1,7 +1,6 @@
 # 决策树
-## 知识点
 
-### 熵
+## 熵
 熵：表示随机变量的不确定性。  
 [信息熵](https://zhuanlan.zhihu.com/p/89958871)：一个表征符号系统中单位符号平均信息量的指标。  
 [条件熵](https://zhuanlan.zhihu.com/p/26551798)：在一个条件下，随机变量的不确定性。  
@@ -13,7 +12,7 @@ X的熵减去Y条件下X的熵，就是信息增益。具体解释：原本明�
 天是阴天，那么下雨的概率很大，信息量少），这样相减后为1.99。在获得阴天这个信息后，下雨信息不确定性减少
 了1.99，不确定减少了很多，所以信息增益大。也就是说，阴天这个信息对明天下午这一推断来说非常重要。*
 
-### DT
+## DT
 所以在特征选择的时候常常用信息增益，如果IG（信息增益大）的话那么这个特征对于分类来说很关键，决策树就是
 这样来找特征的。  
 
@@ -23,12 +22,13 @@ X的熵减去Y条件下X的熵，就是信息增益。具体解释：原本明�
 [基尼指数（基尼不纯度,信息熵的1阶泰勒展开）](https://www.zhihu.com/question/296781126/answer/508112100)
 [CART树](https://www.cnblogs.com/pinard/p/6053344.html)
 
-### Ensemble learning
+## Ensemble learning
 [bagging模型集成与随机森岭](https://www.cnblogs.com/pinard/p/6156009.html)
 [随机森林参数](https://zhuanlan.zhihu.com/p/56940098)
 
 [模型融合](https://zhuanlan.zhihu.com/p/25836678)
 [预测偏差、方差与模型融合](https://github.com/azusakou/studynote_ML/blob/master/DT/Lecture_10_Ensemble.pdf)
+
 
 
 
