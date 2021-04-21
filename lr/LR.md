@@ -5,11 +5,12 @@
 2. 了解模型欠拟合、过拟合状态，了解L1、L2正则化方法减缓模型过拟合。  
 
 ## 知识点
-1. [逻辑回归理解](https://zhuanlan.zhihu.com/p/44591359)
-勘误：文章损失函数部分应添加负号，对齐梯度下降方向
-2. [无偏估计](https://www.zhihu.com/question/22983179/answer/404391738)
-理解衡量一个估计好坏的三个方面：无偏（低偏差）、有效（低方差）、一致（数据划分）
-3. [方差与偏差的权衡](https://zhuanlan.zhihu.com/p/38853908)
-4. [控制方差与偏差权衡的方法：l1与l2正则化(1-7部分)](https://zhuanlan.zhihu.com/p/35356992)
-[稀疏性的图解法](https://vimsky.com/article/3852.html)
-[稀疏性的其他解释](https://zhuanlan.zhihu.com/p/50142573)
+1. [逻辑回归理解](https://zhuanlan.zhihu.com/p/44591359)  
+勘误：文章损失函数部分应添加负号，对齐梯度下降方向  
+2. [无偏估计](https://www.zhihu.com/question/22983179/answer/404391738)  
+理解衡量一个估计好坏的三个方面：无偏（低偏差）、有效（低方差）、一致（数据划分）  
+3. [方差与偏差的权衡](https://zhuanlan.zhihu.com/p/38853908)  
+4. [控制方差与偏差权衡的方法：l1与l2正则化(1-7部分)](https://zhuanlan.zhihu.com/p/35356992)  
+[稀疏性的图解法](https://vimsky.com/article/3852.html)  
+[稀疏性的其他解释](https://zhuanlan.zhihu.com/p/50142573)  
+
