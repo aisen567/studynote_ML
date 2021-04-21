@@ -106,7 +106,7 @@ lightgbm可以支持直接的[类别型特征](https://zhuanlan.zhihu.com/p/6747
 当前特征数据不利于被模型捕获时  
 
 
-[CTR如何构造特征，Louis回答](https://www.zhihu.com/question/347715330/answer/849645828)  
+
 [特征选择概览](https://zhuanlan.zhihu.com/p/30404850)  
 [特征选择实战](https://zhuanlan.zhihu.com/p/32749489)  
 [[阅读]特征工程概览](https://www.zhihu.com/question/28641663/answer/110165221)  
