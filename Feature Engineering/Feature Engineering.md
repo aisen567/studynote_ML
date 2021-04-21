@@ -31,7 +31,7 @@ lightgbm可以支持直接的[类别型特征](https://zhuanlan.zhihu.com/p/6747
 
 数据标准化方法  
 分布良好的数据可以直接进行中心标准化 (x - mu) / std  
-有偏分布可以尝试做log等非线性单调变换后再进行中心标准化 (x - mu) / std  
+有偏分布可以尝试做log等**非线性单调变换**后再进行**中心标准化** (x - mu) / std  
 对于较为特殊的分布可以尝试RankGauss标准化；查看sklearn QuantileTransformer文档  
 
 ### 特征挖掘
