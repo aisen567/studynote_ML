@@ -45,7 +45,7 @@ lightgbm可以支持直接的类别型特征输入，xgb等其他模型需要one
 [特征选择概览](https://zhuanlan.zhihu.com/p/30404850)
 [特征选择实战](https://zhuanlan.zhihu.com/p/32749489)
 [[阅读]特征工程概览](https://www.zhihu.com/question/28641663/answer/110165221)
-[[阅读]高阶特征工程]()
+[[阅读]高阶特征工程](https://zhuanlan.zhihu.com/p/62773597)
  
 
  
