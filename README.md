@@ -1,6 +1,6 @@
 # studynote_ML []()
 # Time Series
-[]()
+[deeptime:](https://github.com/deeptime-ml/deeptime) Python library for analysis of time series data including dimensionality reduction, clustering, and Markov model estimation
 
 # record
 [mlflow:](https://github.com/mlflow/mlflow) Open source platform for the machine learning lifecycle
