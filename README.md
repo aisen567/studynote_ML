@@ -16,6 +16,8 @@
 
 [dtreeviz: ](https://github.com/parrt/dtreeviz) A python library for decision tree visualization and model interpretation.
 
+[hiplot: ]()
+
 ## auto ML
 
 
