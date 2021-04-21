@@ -1,8 +1,5 @@
-# [特征工程](https://www.zhihu.com/question/29316149/answer/607394337) [视频](https://www.youtube.com/watch?v=68ABAU_V8qI)
-
-## 知识点
-
-### 数据类型
+[特征工程](https://www.zhihu.com/question/29316149/answer/607394337) [视频](https://www.youtube.com/watch?v=68ABAU_V8qI)
+# 数据类型
 在表格类数据建模过程中，常常需要处理的数据类型：
 1. 文本_[python 字符串方法](https://zhuanlan.zhihu.com/p/80518649)
 需要通过[正则表达式](https://www.cnblogs.com/shenjianping/p/11647473.html)，
@@ -17,7 +14,7 @@ lightgbm可以支持直接的[类别型特征](https://zhuanlan.zhihu.com/p/6747
 线性模型、逻辑回归,knn(涉及距离的模型)等需要进行标准化，缺失处理；
 树模型不需要进行标准化，一般不需要处理缺失；
 
-### 数据流程
+# 数据流程
 一般在数据处理与特征工程的工作流程为：
 1. 异常值处理；
 2. [缺失值处理](https://zhuanlan.zhihu.com/p/137175585)；
@@ -25,7 +22,7 @@ lightgbm可以支持直接的[类别型特征](https://zhuanlan.zhihu.com/p/6747
 4. 分布调整与标准化  
 在具体项目中，2，3，4可以调整顺序；
 
-### 数据处理
+# 数据处理
 
 [为什么要处理缺失](https://www.zhihu.com/question/58230411/answer/242037063)
 
@@ -34,7 +31,7 @@ lightgbm可以支持直接的[类别型特征](https://zhuanlan.zhihu.com/p/6747
 有偏分布可以尝试做log等**非线性单调变换**后再进行**中心标准化** (x - mu) / std  
 对于较为特殊的分布可以尝试RankGauss标准化；查看sklearn QuantileTransformer文档  
 
-### 特征挖掘
+# 特征挖掘
 
 特征越高阶，模型可以相对简单；特征越低阶，模型复杂度需要越高。 一句话结论：**寻找对label(click)区分度大且泛化能力较好的特征**。  
 通过数据分析，可以统计出某个特征对样本标签的区分度，比如不同省份用户的点击率有明显差异，那么用户所在省份这个特征就有比较好的区分度。再举个反例，如果用“手机上是否装了微信”这个作为一个特征，预估某个点击率，由于绝大多数用户手机上都装了微信，因此这个特征没有区分度，很低效。那么，是不是特征对label的区分度越高越好呢？并不是。比如用户的id特征，可以完美区分出每个用户对不同物品的兴趣程度，但是用户id特征过于稀疏，往往无法充分地训练模型。
