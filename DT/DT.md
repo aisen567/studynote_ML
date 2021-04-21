@@ -17,8 +17,8 @@ X的熵减去Y条件下X的熵，就是信息增益。具体解释：原本明�
 这样来找特征的。  
 
 []()
-[决策树](https://zhuanlan.zhihu.com/p/26703300)
-[基于信息与信息增益的ID3及C4.5决策树](https://www.cnblogs.com/pinard/p/6050306.html)
+[决策树](https://zhuanlan.zhihu.com/p/26703300)  
+[基于信息与信息增益的ID3及C4.5决策树](https://www.cnblogs.com/pinard/p/6050306.html)  
 [基尼指数（基尼不纯度,信息熵的1阶泰勒展开）](https://www.zhihu.com/question/296781126/answer/508112100)
 [CART树](https://www.cnblogs.com/pinard/p/6053344.html)
 
