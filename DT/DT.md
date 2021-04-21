@@ -27,7 +27,7 @@ X的熵减去Y条件下X的熵，就是信息增益。具体解释：原本明�
 [bagging模型集成与随机森岭](https://www.cnblogs.com/pinard/p/6156009.html)
 [随机森林参数](https://zhuanlan.zhihu.com/p/56940098)
 
-[模型融合]()
+[模型融合](https://zhuanlan.zhihu.com/p/25836678)
 [预测偏差、方差与模型融合]()
 
 
