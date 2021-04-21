@@ -27,17 +27,18 @@ lightgbm可以支持直接的类别型特征输入，xgb等其他模型需要one
 ### 数据处理
 []()
 [为什么要处理缺失](https://www.zhihu.com/question/58230411/answer/242037063)
-[缺失值处理]()
-[]()
-[]()
-[]()
-[]()
+[缺失值处理](https://zhuanlan.zhihu.com/p/137175585)
+
 数据标准化方法  
 分布良好的数据可以直接进行中心标准化 (x - mu) / std  
 有偏分布可以尝试做log等非线性单调变换后再进行中心标准化 (x - mu) / std  
 对于较为特殊的分布可以尝试RankGauss标准化；查看sklearn QuantileTransformer文档  
 
 ### 特征挖掘
+[]()
+[]()
+[]()
+[]()
 特征工程是什么  
 python 字符串方法  
 正则表达式  
