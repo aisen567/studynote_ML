@@ -19,15 +19,15 @@ X的熵减去Y条件下X的熵，就是信息增益。具体解释：原本明�
 []()
 [决策树](https://zhuanlan.zhihu.com/p/26703300)  
 [基于信息与信息增益的ID3及C4.5决策树](https://www.cnblogs.com/pinard/p/6050306.html)  
-[基尼指数（基尼不纯度,信息熵的1阶泰勒展开）](https://www.zhihu.com/question/296781126/answer/508112100)
-[CART树](https://www.cnblogs.com/pinard/p/6053344.html)
+[基尼指数（基尼不纯度,信息熵的1阶泰勒展开）](https://www.zhihu.com/question/296781126/answer/508112100)  
+[CART树](https://www.cnblogs.com/pinard/p/6053344.html)  
 
 ## Ensemble learning
-[bagging模型集成与随机森岭](https://www.cnblogs.com/pinard/p/6156009.html)
-[随机森林参数](https://zhuanlan.zhihu.com/p/56940098)
+[bagging模型集成与随机森岭](https://www.cnblogs.com/pinard/p/6156009.html)  
+[随机森林参数](https://zhuanlan.zhihu.com/p/56940098)  
 
-[模型融合](https://zhuanlan.zhihu.com/p/25836678)
-[预测偏差、方差与模型融合](https://github.com/azusakou/studynote_ML/blob/master/DT/Lecture_10_Ensemble.pdf)
+[模型融合](https://zhuanlan.zhihu.com/p/25836678)  
+[预测偏差、方差与模型融合](https://github.com/azusakou/studynote_ML/blob/master/DT/Lecture_10_Ensemble.pdf)  
 
 ## QA
 1.采用信息增益、信息增益率作为决策树生长策略，有什么区别?  
