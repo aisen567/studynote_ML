@@ -22,7 +22,7 @@ lightgbm可以支持直接的[类别型特征](https://zhuanlan.zhihu.com/p/6747
 4. 分布调整与标准化  
 在具体项目中，2，3，4可以调整顺序；
 
-# 数据处理
+## 分布调整与标准化
 
 [为什么要处理缺失](https://www.zhihu.com/question/58230411/answer/242037063)
 
