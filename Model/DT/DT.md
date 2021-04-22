@@ -1,3 +1,5 @@
+![title](https://raw.githubusercontent.com/azusakou/figures_study_ML/main/Users/2021/04/22/dt-1619060954255.tif)
+
 # 决策树[]()
 
 ## 熵
