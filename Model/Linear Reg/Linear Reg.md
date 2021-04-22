@@ -1,4 +1,4 @@
-
+![title](https://raw.githubusercontent.com/azusakou/figures_study_ML/main/Users/2021/04/22/LR-1619061114290.tif)
 回归分析是一种预测性的建模技术,它研究的是因变量(目标)和自变量(特征)之间的关系,用于预测分析。
 
 ## 学习目标:  
