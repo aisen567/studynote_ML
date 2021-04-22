@@ -1,4 +1,4 @@
-![title](https://raw.githubusercontent.com/azusakou/figures_study_ML/main/Users/2021/04/22/GBDT-1619060858174.tif)
+
 # 梯度提升树
 []()
 
