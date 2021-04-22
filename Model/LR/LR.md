@@ -1,4 +1,4 @@
-
+![title](https://raw.githubusercontent.com/azusakou/figures_study_ML/main/Users/2021/04/22/LR-1619061041552.tif)
 # 广义线性模型：逻辑回归
 
 ## 学习目标：
