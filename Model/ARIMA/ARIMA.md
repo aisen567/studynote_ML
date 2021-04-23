@@ -5,6 +5,6 @@
 3. [时间序列分解](https://zhuanlan.zhihu.com/p/267541046)
 4. [时间序列基础概念时间序列平稳(强、弱两种含义)](https://zhuanlan.zhihu.com/p/60023855)
 5. [ARIMA\AR\MA模型](https://zhuanlan.zhihu.com/p/60648709)
-6. 时间序列平稳
+6. [时间序列平稳](https://www.zhihu.com/question/21982358)
 7. [拓展阅读]kalman filter 
 8. [拓展阅读]Prophet
