@@ -12,4 +12,4 @@
 
 # Tool
 1. [scipy in TS](https://zhuanlan.zhihu.com/p/35128342)
-2. [Pandas]()
+2. [Pandas](https://zhuanlan.zhihu.com/p/106675563)
