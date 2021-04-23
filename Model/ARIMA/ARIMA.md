@@ -11,5 +11,5 @@
 8. [Prophet](https://www.zhihu.com/question/56585493/answer/551699339)
 
 # Tool
-1. [scipy in TS]()
-2. 
+1. [scipy in TS](https://zhuanlan.zhihu.com/p/35128342)
+2. [Pandas]()
