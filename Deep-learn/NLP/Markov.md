@@ -52,7 +52,7 @@
 
 如果对于i_n有：状态1, 状态2, ..., 状态n，那i_n的每一个状态都会从下面的m个观测中产生一个：观测1, 观测2, ..., 观测m，所以有如下矩阵：
 
-|i<sub>11</sub>/O~m~|Obs 1|Obs 2|...|Obs m|
+|i<sub>n</sub>/O<sub>m</sub>|Obs 1|Obs 2|...|Obs m|
 |----|----|----|----|----|
 |state 1|P<sub>11</sub>|p<sub>12</sub>|...|p<sub>1m</sub>|
 |state 2|P<sub>21</sub>|p<sub>22</sub>|...|p<sub>2m</sub>|
