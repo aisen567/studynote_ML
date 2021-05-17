@@ -38,7 +38,7 @@ HMM模型是一个生成模型，描述了两个相关序列的依赖关系。�
 1，马尔科夫性假设：t时刻的状态出现的概率只和t-1时刻的状态有关。
 ![title](https://raw.githubusercontent.com/azusakou/figures_study_ML/main/Users/2021/05/17/equation-1621237410819.svg)  
 2，齐次性假设：可以理解为时间平移不变性
-
+![title](https://raw.githubusercontent.com/azusakou/figures_study_ML/main/Users/2021/05/17/equation-2-1621237456771.svg)  
 3，观测独立性假设：某个时刻t的观测值只依赖于该时刻的状态值，与任何其它时刻的观测值和状态值无关。
 
 上述HMM的联合概率函数中，实际上就用到了HMM的三大假设。
