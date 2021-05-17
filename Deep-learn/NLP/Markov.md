@@ -38,8 +38,8 @@
 
 |i<sub>2</sub>/i<sub>1</sub>|state 1|state 2|...|state n|
 |----|----|----|----|----|
-|state 1|P<sub>11</sub>|p<sub>2</sub>|...|p~1n~|
-|state 2|P~21~|p~22~|...|p~2n~|
+|state 1|P<sub>11</sub>|p<sub>12</sub>|...|p<sub>1n</sub>|
+|state 2|P<sub>21</sub>|p<sub>22</sub>|...|p<sub>2n</sub>|
 |...|...|...|...|...|
 |state n|P~n1~|p~n2~|...|p~nn~|
 
