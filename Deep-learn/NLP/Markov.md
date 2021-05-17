@@ -89,3 +89,4 @@ HMM模型是一个生成模型，描述了两个相关序列的依赖关系。�
 
             λ = (A, B, π)
 
+![title](https://raw.githubusercontent.com/azusakou/figures_study_ML/main/Users/2021/05/17/v2-8e7b20af42a35131537b762ffbdcf18c_720w-1621237591508.jpg)
