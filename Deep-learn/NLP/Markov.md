@@ -41,7 +41,7 @@
 |state 1|P<sub>11</sub>|p<sub>12</sub>|...|p<sub>1n</sub>|
 |state 2|P<sub>21</sub>|p<sub>22</sub>|...|p<sub>2n</sub>|
 |...|...|...|...|...|
-|state n|P~n1~|p~n2~|...|p~nn~|
+|state n|P<sub>n1</sub>|p<sub>n2</sub>|...|p<sub>nn</sub>|
 
 即：i_1->i_2对应n*n的矩阵。  
 同理：i_n -> i_{n+1}对应个n*n的矩阵。  
