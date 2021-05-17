@@ -27,18 +27,18 @@
 ### 1.4.1 初始概率分布\pi
 
  i_1可能是状态1，状态2 ... 状态n，于是i_1就有个N点分布：
-|i1|state 1|state 2|...|state n|
+|i<sub>1</sub>|state 1|state 2|...|state n|
 |----|----|----|----|----|
-|*P*|P<sub>1</sub>|p<sub>2</sub>|...|p<sub>2</sub>|
+|*P*|P<sub>1</sub>|p<sub>2</sub>|...|p<sub>n</sub>|
 即：i_1对应个n维的向量。
 上面这个n维的向量就是初始概率分布，记做π。  
 
 ### 1.4.2 状态转移矩阵A
 因为i_2和i_1不独立，所以i_2是状态1的概率有：i_1是状态1时i_2是状态1，i_1是状态2时i_2是状态1,..., i_1是状态n时i_2是状态1，如下表
 
-|i2/i1|state 1|state 2|...|state n|
+|i<sub>2</sub>/i<sub>1</sub>|state 1|state 2|...|state n|
 |----|----|----|----|----|
-|state 1|P~11~|p~12~|...|p~1n~|
+|state 1|P<sub>11</sub>|p<sub>2</sub>|...|p~1n~|
 |state 2|P~21~|p~22~|...|p~2n~|
 |...|...|...|...|...|
 |state n|P~n1~|p~n2~|...|p~nn~|
