@@ -32,7 +32,7 @@
 ## 3.1 HMM模型的上帝视角
 HMM模型是一个生成模型，描述了两个相关序列的依赖关系。这两个相关序列称为状态序列[X<sub>1</sub>, X<sub>2</sub>, X<sub>3</sub>,..., X<sub>T</sub>] 和 观测序列 [O<sub>1</sub>, O<sub>2</sub>, O<sub>3</sub>,..., O<sub>T</sub>].其中状态序列在t时刻的值只和t-1时刻状态序列的取值有关，观测序列在t时刻的值只和t时刻观测序列的取值有关。
 其联合概率函数如下：
-
+![title](https://raw.githubusercontent.com/azusakou/figures_study_ML/main/Users/2021/05/17/1621237116070-1621237325788.jpg)
 
 ## 3.2 HMM的三大假设
 1，马尔科夫性假设：t时刻的状态出现的概率只和t-1时刻的状态有关。
