@@ -27,6 +27,6 @@
 ### 1.4.1 初始概率分布\pi
 
  i_1可能是状态1，状态2 ... 状态n，于是i_1就有个N点分布：
-|i1|state 1|state 2|state n|
+|i1|state 1|state 2|...|state n|
 |-|-|-|
-|*P*|P1|p2|column3|
+|*P*|P1|p2|...|pn|
