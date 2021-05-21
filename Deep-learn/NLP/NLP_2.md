@@ -12,7 +12,7 @@ from sklearn.feature_extraction.text import TfidfVectorizer
 [嵌入表示](https://zhuanlan.zhihu.com/p/53194407)
 [Gensim: Word2vec实战](https://zhuanlan.zhihu.com/p/40016964)
 [Doc2Vec](https://zhuanlan.zhihu.com/p/36886191)
-2016年前的文本表示回顾
+[2016年前的文本表示回顾](https://zhuanlan.zhihu.com/p/42310942)
 EMLO : Embeddings from Language Models
 Transformer
 从word2vec, ELMo到BERT
