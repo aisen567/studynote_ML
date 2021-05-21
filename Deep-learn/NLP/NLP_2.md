@@ -17,5 +17,5 @@ from sklearn.feature_extraction.text import TfidfVectorizer
 [Transformer](https://zhuanlan.zhihu.com/p/48508221)
 [从word2vec, ELMo到BERT](https://zhuanlan.zhihu.com/p/47488095)
 # 练习
-使用Gensim
+使用[Gensim](https://radimrehurek.com/gensim/index.html)
 任务 数据
