@@ -1,5 +1,6 @@
 ## 基础
-[N-gram 语言模型](https://zhuanlan.zhihu.com/p/32829048)  
+[N-gram 语言模型1](https://zhuanlan.zhihu.com/p/32829048)  
+[N-gram 语言模型2]()  
 [HMM 隐含马尔可夫简介](https://zhuanlan.zhihu.com/p/224770895)  
 [viterbi 解码与词性标注](https://zhuanlan.zhihu.com/p/28274845)  
 [分词原理与应用](https://zhuanlan.zhihu.com/p/66904318)  
