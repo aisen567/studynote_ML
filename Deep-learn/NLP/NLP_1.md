@@ -1,4 +1,5 @@
-
+## structure
+[12 papers](https://zhuanlan.zhihu.com/p/80217404)  
 ## 基础
 [N-gram 语言模型1](https://zhuanlan.zhihu.com/p/32829048)  
 [N-gram 语言模型2](https://discretetom.github.io/academic/NaturalLanguageProcessing/2/)  
