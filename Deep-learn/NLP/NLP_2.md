@@ -11,7 +11,7 @@ from sklearn.feature_extraction.text import TfidfVectorizer
 [word2vec](https://zhuanlan.zhihu.com/p/26306795)
 [嵌入表示](https://zhuanlan.zhihu.com/p/53194407)
 [Gensim: Word2vec实战](https://zhuanlan.zhihu.com/p/40016964)
-Doc2Vec
+[Doc2Vec](https://zhuanlan.zhihu.com/p/36886191)
 2016年前的文本表示回顾
 EMLO : Embeddings from Language Models
 Transformer
