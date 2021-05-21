@@ -1,4 +1,4 @@
-[特征工程](https://www.zhihu.com/question/29316149/answer/607394337) [视频](https://www.youtube.com/watch?v=68ABAU_V8qI)
+[特征工程1](https://www.zhihu.com/question/29316149/answer/607394337) [视频](https://www.youtube.com/watch?v=68ABAU_V8qI)
 # 数据类型
 在表格类数据建模过程中，常常需要处理的数据类型：
 1. 文本_[python 字符串方法](https://zhuanlan.zhihu.com/p/80518649)
