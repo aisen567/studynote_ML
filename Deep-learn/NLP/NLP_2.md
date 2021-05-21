@@ -7,7 +7,7 @@ from sklearn.feature_extraction.text import CountVectorizer
 from sklearn.feature_extraction.text import TfidfVectorizer  
 
 [词袋模型应用](https://zhuanlan.zhihu.com/p/53302305)
-什么是Representation Learning？
+[什么是Representation Learning？](https://zhuanlan.zhihu.com/p/136554341)
 word2vec
 嵌入表示
 Gensim: Word2vec实战
