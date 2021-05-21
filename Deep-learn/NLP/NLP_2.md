@@ -18,4 +18,4 @@ from sklearn.feature_extraction.text import TfidfVectorizer
 [从word2vec, ELMo到BERT](https://zhuanlan.zhihu.com/p/47488095)
 # 练习
 使用[Gensim](https://radimrehurek.com/gensim/index.html)
-[任务](https://zhuanlan.zhihu.com/p/52705512) 数据
+[任务](https://zhuanlan.zhihu.com/p/52705512) [数据](https://github.com/wolfkin-hth/novels/tree/master)
