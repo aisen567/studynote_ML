@@ -48,3 +48,28 @@ def get_middle(s):
       
  def get_middle(s):
     return s[(len(s)-1)//2:len(s)//2+1]
+## 6 Convert string to camel case
+def to_camel_case(s):
+    return s[0] + s.title().replace("-",'').replace('_','')[1:] if s else s
+#
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
