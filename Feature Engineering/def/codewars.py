@@ -51,8 +51,21 @@ def get_middle(s):
 ## 6 Convert string to camel case
 def to_camel_case(s):
     return s[0] + s.title().replace("-",'').replace('_','')[1:] if s else s
-#
+# 7 Moving Zeros To The End
+def move_zeros(array):
+    list1=[]
+    list2=[]
+    for i in array:
+        if i!=0:
+            list1.append(i)
+        elif i==0:
+            list2.append(i)
+    
+    return list1+list2
 
+def move_zeros(arr):
+    l = [i for i in arr if isinstance(i, bool) or i!=0]
+    return l+[0]*(len(arr)-len(l))
 
 
 
