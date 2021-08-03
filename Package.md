@@ -33,8 +33,6 @@
 
 [animatplot: ](https://github.com/t-makaro/animatplot) A python package for animating plots build on matplotlib
 
-[visdom: ](https://github.com/fossasia/visdom) A flexible tool for creating, organizing, and sharing visualizations of live, rich data. Supports Torch and Numpy.
-
 # Record
 [mlflow: ](https://github.com/mlflow/mlflow) Open source platform for the machine learning lifecycle.
 
