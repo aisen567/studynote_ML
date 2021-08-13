@@ -62,4 +62,4 @@
 [Kaggler: ](https://github.com/jeongyoonlee/Kaggler) Code for Kaggle Data Science Competitions
 
 # OCR
-[read from excel: ](https://github.com/PaddlePaddle/PaddleOCR/blob/release/2.2/ppstructure/README_ch.md]
+[convert pdf to excel: ](https://github.com/PaddlePaddle/PaddleOCR/blob/release/2.2/ppstructure/README_ch.md]
