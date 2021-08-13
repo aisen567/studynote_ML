@@ -60,3 +60,5 @@
 
 # Kaggle
 [Kaggler: ](https://github.com/jeongyoonlee/Kaggler) Code for Kaggle Data Science Competitions
+
+https://github.com/PaddlePaddle/PaddleOCR/blob/release/2.2/ppstructure/README_ch.md
