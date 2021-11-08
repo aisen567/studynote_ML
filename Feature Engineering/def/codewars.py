@@ -67,8 +67,13 @@ def move_zeros(arr):
     l = [i for i in arr if isinstance(i, bool) or i!=0]
     return l+[0]*(len(arr)-len(l))
 
+# 8 Multiples of 3 or 5
+def solution(number):
+    return sum(x for x in range(number) if x % 3 == 0 or x % 5 == 0)
 
-
+# 9 Human Readable Time
+def make_readable(s):
+    return '{:02}:{:02}:{:02}'.format(s / 3600, s / 60 % 60, s % 60)
 
 
 
