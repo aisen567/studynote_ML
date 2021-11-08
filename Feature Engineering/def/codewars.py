@@ -48,9 +48,11 @@ def get_middle(s):
       
  def get_middle(s):
     return s[(len(s)-1)//2:len(s)//2+1]
+  
 ## 6 Convert string to camel case
 def to_camel_case(s):
     return s[0] + s.title().replace("-",'').replace('_','')[1:] if s else s
+  
 # 7 Moving Zeros To The End
 def move_zeros(array):
     list1=[]
@@ -75,19 +77,11 @@ def solution(number):
 def make_readable(s):
     return '{:02}:{:02}:{:02}'.format(s / 3600, s / 60 % 60, s % 60)
 
+# 10 Build Tower
+def tower_builder(n_floors):
+    return [' '*(n_floors-i-1)+'*'*(i*2+1)+' '*(n_floors-i-1) for i in range(n_floors)]
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+def tower_builder(n):
+    return [("*" * (i*2-1)).center(n*2-1) for i in range(1, n+1)]
 
 
